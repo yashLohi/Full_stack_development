@@ -1,1 +1,2 @@
 # Full_stack_development
+My name is Yash and I dont have money to buy any full stack development course so I decide to learn by my self through the internet in got a full stack developer syllabus from Geeks for Geeks and try to complete my learnnig in next 90 days.
