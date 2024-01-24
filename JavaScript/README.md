@@ -1,0 +1,3 @@
+What is Javascript?
+
+JavaScript is a versatile and widely used programming language that plays a crucial role in web development. it enables developers to create interactive and dynamic elements within web pages, wnhancing the user experience by adding functionality that responds to user actions. JavaScript is primarily executed in web browsers, but its also used in other environments like server-side scripting(Node.js)
